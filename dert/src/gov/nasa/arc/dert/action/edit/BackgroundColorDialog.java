@@ -160,6 +160,7 @@ public class BackgroundColorDialog extends AbstractDialog {
 		super(Dert.getMainWindow(), "Background Color", true, false);
 	}
 
+	
 	@Override
 	protected void build() {
 		super.build();		
